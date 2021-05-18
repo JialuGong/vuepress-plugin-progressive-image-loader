@@ -1,0 +1,23 @@
+{
+  "name": "vuepress-plugin-progressive-image-loader",
+  "version": "1.0.0",
+  "description": "a image loader plugin for vuepress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vuepress",
+    "progressive-image"
+  ],
+  "author": "huaiyu",
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/shared-utils": "^1.8.2",
+    "cheerio": "^1.0.0-rc.9",
+    "deasync": "^0.1.21",
+    "image-thumbnail": "^1.0.13",
+    "image-type": "^4.1.0",
+    "read-chunk": "^3.2.0"
+  }
+}
