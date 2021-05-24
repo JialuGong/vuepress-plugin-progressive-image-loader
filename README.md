@@ -4,7 +4,10 @@
 
 A plugin to help loading the image in a progressive way,just like gatsby.js and medium.
 
-### Warning
+Just like this!
+![a demo](./.images/screen-shot.gif)
+
+### Warning 
 
 It's just a very naive version,having many bugs to fix!!!
 
@@ -23,3 +26,6 @@ module.exports={
     plugin:{'vuepress-plugin-progressive-image-loader'}
 }
 ```
+
+### TODO
+- [ ] support custom image size in markdown
