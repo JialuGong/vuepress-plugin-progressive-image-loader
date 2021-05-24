@@ -1,11 +1,10 @@
-<center> VuePress image progressive loader</center>
-
+<h1 align="center" style="text-align: center;">VuePress Image Progressive Loader</h1>
 
 ![npm badge](https://nodei.co/npm/uepress-plugin-progressive-image-loader.png)
 
 ### Description
 
-A VuePress plugin to help loading the image in a progressive way,just like gatsby.js and medium.
+A VuePress plugin to help loading the image in a progressive way,just like [gatsby.js](https://www.gatsbyjs.com/) and [medium](https://medium.com/).
 
 Just like this!
 ![a demo](./.images/screen-shot.gif)
