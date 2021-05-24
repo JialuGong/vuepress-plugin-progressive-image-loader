@@ -1,4 +1,6 @@
 <center> VuePress image progressive loader</center>
+
+
 ![npm badge](https://nodei.co/npm/uepress-plugin-progressive-image-loader.png)
 
 ### Description
