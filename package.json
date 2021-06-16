@@ -1,6 +1,6 @@
 {
   "name": "vuepress-plugin-progressive-image-loader",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "description": "a image loader plugin for vuepress",
   "main": "index.js",
   "homepaeg":"https://github.com/JialuGong/vuepress-plugin-progressive-image-loader",
